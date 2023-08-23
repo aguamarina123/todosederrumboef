@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "691640765023",
+    "project_id": "evaluacionfatality",
+    "storage_bucket": "evaluacionfatality.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691640765023:android:105be63463d7bf8919e9ea",
+        "android_client_info": {
+          "package_name": "com.enzo.evaluacionfatality"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691640765023-8i0lgh5in69tn9pp7m8l4loef57r7i6c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.enzo.evaluacionfatality",
+            "certificate_hash": "d4d8fd355032fa28d5fb77920c33c83f6800b53b"
+          }
+        },
+        {
+          "client_id": "691640765023-ht0a2j5pem2p99kbommhme4bq9u95lae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV78J6M6DGo_qGC67UQR6y78JZib4BljI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691640765023-akrdh2g11sg79hiu9u4em49omc0cbv64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
